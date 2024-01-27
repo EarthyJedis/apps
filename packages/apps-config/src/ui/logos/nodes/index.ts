@@ -43,6 +43,7 @@ export { nodesDatahighwayPNG } from './generated/datahighwayPNG.js';
 export { nodesDockPNG } from './generated/dockPNG.js';
 export { nodesDolphinSVG } from './generated/dolphinSVG.js';
 export { nodesDotmogSVG } from './generated/dotmogSVG.js';
+export { nodesEarthyPNG } from './generated/earthyPNG.js';
 export { nodesEaveSVG } from './generated/eaveSVG.js';
 export { nodesEdgewareWhitePNG } from './generated/edgeware-whitePNG.js';
 export { nodesEfinitySVG } from './generated/efinitySVG.js';
